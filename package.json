@@ -1,5 +1,5 @@
 {
-  "name": "react-example",
+  "name": "react-comments",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeffrey-xiao/react-example.git"
+    "url": "git+https://github.com/jeffrey-xiao/react-comments.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeffrey-xiao/react-example/issues"
+    "url": "https://github.com/jeffrey-xiao/react-comments/issues"
   },
-  "homepage": "https://github.com/jeffrey-xiao/react-example#readme"
+  "homepage": "https://github.com/jeffrey-xiao/react-comments#readme"
 }
